@@ -1,1 +1,9 @@
-
+{
+    "name": "rafkub/test",
+    "description": "For testing purposes only",
+    "type": "project",
+    "license": "MIT",
+    "require" : {
+        "php" : ">=7.4",
+    }
+}
