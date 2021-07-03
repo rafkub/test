@@ -1,7 +1,7 @@
 {
     "name": "rafkub/test",
     "description": "For testing purposes only",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "require" : {}
 }
