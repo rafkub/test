@@ -1,0 +1,1 @@
+[Relative link](../dir)
