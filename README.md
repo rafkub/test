@@ -5,4 +5,4 @@ test description
 
 [Link to sub-directory](dir)
 
-[Link to another repo](../oop-design-patterns)
+[Link to another repo](https://github.com/rafkub/oop-design-patterns)
